@@ -78,5 +78,8 @@ export default defineNuxtConfig({
       apiBase: '/api',
       dev: config
     }
-  }
+  },
+
+  // Make sure you have this line
+  ssr: false,
 })

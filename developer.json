@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Tony Kipkemboi",
+    "logo_name": "tony-kipkemboi",
+    "role": "Developer Advocate",
     "about": {
         "sections": {
             "professional-info": {
@@ -64,25 +64,25 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "iamtonykipkemboi@gmail.com",
+                "phone": "+254704444444"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "tonykipkemboi"
             },
             "facebook": {
-                "title": "Facebook profile",
-                "url": "https://facebook.com/",
-                "user": "username"
+                "title": "LinkedIn profile",
+                "url": "https://www.linkedin.com/in/",
+                "user": "tonykipkemboi"
             },
             "twitter": {
-                "title": "Twitter account",
-                "url": "https://twitter.com/",
-                "user": "username"
+                "title": "X profile",
+                "url": "https://x.com/",
+                "user": "tonykipkemboi"
             }
         },
         "find_me_also_in": {
@@ -90,13 +90,13 @@
             "sources": {
                 "youtube": {
                     "title": "YouTube channel",
-                    "url": "https://www.youtube.com/",
-                    "user": "username"
+                    "url": "https://www.youtube.com/@tonykipkemboi",
+                    "user": "tonykipkemboi"
                 },
                 "gurushots": {
-                    "title": "GuruShots profile",
-                    "url": "https://gurushots.com/",
-                    "user": "username"
+                    "title": "LinkedIn profile",
+                    "url": "https://www.linkedin.com/in/tonykipkemboi/",
+                    "user": "tonykipkemboi"
                 },
                 "instagram": {
                     "title": "Instagram account",
